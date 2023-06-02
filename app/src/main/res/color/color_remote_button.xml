@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <!--no disabled color state because it show on button press somehow-->
+    <item android:color="@color/primary_button_color"/>
+</selector>
